@@ -1,5 +1,5 @@
 # Recommendation-Systems-LastFM
-This study aims is to analyze data set of the "LastFM" ,a well-known music streaming service, creating new functions, computing and evaluating recommendation systems. During pre-processing step we created 2 main basetables in order to apply different recommendation systems namely collaborative filtering, content based and also Hybrid method.In the next steps we created several functions to predict recommendations for users and to evaluate the results.  
+This study aims was to use "LastFM" dataset, a well-known music streaming service, in order to provide recommendations of artists to the users, applying different techniques. Pre-processing step consisted on the construction of 2 main basetables in order to apply recommendation systems (collaborative filtering, content based and hybrid). In addition, several functions were created in order to predict recommendations for users and to evaluate the results. 
 
 ## Pre-Processing Step
 
